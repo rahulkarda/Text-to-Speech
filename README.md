@@ -4,7 +4,7 @@ A Text-to-Speech Web App that does vocal narration of text displayed on screen i
 The site is live at : https://text2speeches.netlify.app/
 
 <a target="_blank" href="https://text2speeches.netlify.app/">
-          <img src="" width="100%" alt="Text To Speech Converter"/>
+          <img src="https://github.com/rahulkarda/Text-to-Speech/blob/main/images/text2speeches.jpg?raw=true" width="100%" alt="Text To Speech Converter"/>
 </a>
 <br>
 
